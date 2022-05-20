@@ -37,18 +37,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - icon: book
+    icon_pack: fas
+    link: https://elibrary.ru/defaultx.asp?
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=list_works&hl=ru&authuser=1&user=1bCVomwAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1544-4742
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Mansur-Abdulfazov
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/MansurAbdulfaozov
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/user
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/mabdulfazov
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
