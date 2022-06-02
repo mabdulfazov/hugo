@@ -101,4 +101,4 @@ image:
     * Сделать пост по прошедшей неделе.
     * Добавить пост на тему по выбору (на двух языках).
 
-**Выполнение этапа: **
+**Выполнение этапа: https://www.youtube.com/watch?v=S7G3fOlvbeA&list=PLS-FXklqMDyFgvPJeY0bZXAmiMJNAhwog**

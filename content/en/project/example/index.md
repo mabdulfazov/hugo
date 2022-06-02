@@ -102,4 +102,4 @@ image:
 * Make a post last week.
 * Add a post on a topic of your choice (in two languages).
 
-**Stage execution: In progress**
+**Stage execution: https://www.youtube.com/watch?v=S7G3fOlvbeA&list=PLS-FXklqMDyFgvPJeY0bZXAmiMJNAhwog**
